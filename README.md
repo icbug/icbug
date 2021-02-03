@@ -48,7 +48,7 @@ func GetBio() Bio {
 
 <h2 align="center">My stack :man_technologist:</h2>
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>(我每天都用什么工具进行开发呢？点击进入stackshare查看吧！)
+<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="center">
   <a href="https://stackshare.io/superpythonforweb">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="icbug :: StackShare" />
