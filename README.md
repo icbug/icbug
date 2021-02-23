@@ -90,7 +90,7 @@ func GetBio() Bio {
 
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)]()
 
-**我同时也是一个白帽子，使用专业系统Kali Linux！以及运维系统RHEL和CentOS6,7,8 **
+*我同时也是一个白帽子，使用专业系统Kali Linux！以及运维系统RHEL和CentOS*
 
 ## 我的网站
 
